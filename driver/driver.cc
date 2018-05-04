@@ -10,6 +10,6 @@ void driver_startup()
 
 void driver_PI_clock()
 {
-    /* Write your code here! */
+  driver_RI_trigger_out();
 }
 
